@@ -1,0 +1,35 @@
+c:\users\sotom\source\repos\Telikh ergasia\Telikh ergasia\bin\Debug\Telikh ergasia.exe.config
+c:\users\sotom\source\repos\Telikh ergasia\Telikh ergasia\bin\Debug\Telikh ergasia.exe
+c:\users\sotom\source\repos\Telikh ergasia\Telikh ergasia\bin\Debug\Telikh ergasia.pdb
+c:\users\sotom\source\repos\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.csprojResolveAssemblyReference.cache
+c:\users\sotom\source\repos\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh_ergasia.Form1.resources
+c:\users\sotom\source\repos\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh_ergasia.Form2.resources
+c:\users\sotom\source\repos\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh_ergasia.Properties.Resources.resources
+c:\users\sotom\source\repos\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.csproj.GenerateResource.Cache
+c:\users\sotom\source\repos\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.csproj.CoreCompileInputs.cache
+c:\users\sotom\source\repos\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.exe
+c:\users\sotom\source\repos\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.pdb
+C:\Users\sotom\source\repos\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh_ergasia.Form3.resources
+C:\Users\user\Desktop\Telikh ergasia\Telikh ergasia\bin\Debug\Telikh ergasia.exe.config
+C:\Users\user\Desktop\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.exe
+C:\Users\user\Desktop\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.pdb
+C:\Users\user\Desktop\Telikh ergasia\Telikh ergasia\bin\Debug\Telikh ergasia.exe
+C:\Users\user\Desktop\Telikh ergasia\Telikh ergasia\bin\Debug\Telikh ergasia.pdb
+C:\Users\user\Desktop\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh_ergasia.Form1.resources
+C:\Users\user\Desktop\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh_ergasia.Form2.resources
+C:\Users\user\Desktop\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh_ergasia.Form3.resources
+C:\Users\user\Desktop\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh_ergasia.Properties.Resources.resources
+C:\Users\user\Desktop\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.csproj.GenerateResource.Cache
+C:\Users\sotom\Desktop\Telikh ergasia123\Telikh ergasia\Telikh ergasia\bin\Debug\Telikh ergasia.exe.config
+C:\Users\sotom\Desktop\Telikh ergasia123\Telikh ergasia\Telikh ergasia\bin\Debug\Telikh ergasia.exe
+C:\Users\sotom\Desktop\Telikh ergasia123\Telikh ergasia\Telikh ergasia\bin\Debug\Telikh ergasia.pdb
+C:\Users\sotom\Desktop\Telikh ergasia123\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.csprojResolveAssemblyReference.cache
+C:\Users\sotom\Desktop\Telikh ergasia123\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh_ergasia.Form1.resources
+C:\Users\sotom\Desktop\Telikh ergasia123\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh_ergasia.Form2.resources
+C:\Users\sotom\Desktop\Telikh ergasia123\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh_ergasia.Form3.resources
+C:\Users\sotom\Desktop\Telikh ergasia123\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh_ergasia.Properties.Resources.resources
+C:\Users\sotom\Desktop\Telikh ergasia123\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.csproj.GenerateResource.Cache
+C:\Users\sotom\Desktop\Telikh ergasia123\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.csproj.CoreCompileInputs.cache
+C:\Users\sotom\Desktop\Telikh ergasia123\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.exe
+C:\Users\sotom\Desktop\Telikh ergasia123\Telikh ergasia\Telikh ergasia\obj\Debug\Telikh ergasia.pdb
